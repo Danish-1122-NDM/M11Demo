@@ -8,6 +8,10 @@ public class Practice {
 		System.out.println("Hello Github");
 		System.out.println("heyy");
 		System.out.println("doiii 0710");
+		
+		
+		System.out.println("git Practice");
+		
 	}
 
 }
